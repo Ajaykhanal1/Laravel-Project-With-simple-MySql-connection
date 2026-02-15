@@ -1,7 +1,13 @@
 <img width="1918" height="1147" alt="image" src="https://github.com/user-attachments/assets/93cb0f75-e0ac-4a3e-a0b8-28fe40e3d304" />
 <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/579bc954-4d1a-40a6-92d9-a06f69013873" />
+<img width="1918" height="1144" alt="image" src="https://github.com/user-attachments/assets/dcd1ae6b-8537-4c1d-8e03-7272f2b56ddb" />
+<img width="1919" height="1134" alt="image" src="https://github.com/user-attachments/assets/4f4822ab-d5f6-49bf-9040-dc00842d87b1" />
+<img width="1918" height="1147" alt="image" src="https://github.com/user-attachments/assets/c3c48879-dcaa-4f70-985a-611abffdaadf" />
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/953ad453-1667-4ecf-80b3-f6535a49a1a2" />
+
 
 ---
+# **Complete CRUD**
 # **ONE-SHOT LARAVEL PRODUCTS CRUD (Simplified)**
 
 ### **Step 1: Create Database**
